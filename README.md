@@ -1,9 +1,7 @@
 # Vue.D3.tree
-[![GitHub open issues](https://img.shields.io/github/issues/David-Desmaisons/Vue.D3.tree.svg)](https://github.com/David-Desmaisons/Vue.D3.tree/issues)
 [![Npm version](https://img.shields.io/npm/v/vued3tree.svg)](https://www.npmjs.com/package/vued3tree)
 [![npm download](https://img.shields.io/npm/dt/vued3tree.svg)](https://www.npmjs.com/package/vued3tree)
 [![vue2](https://img.shields.io/badge/vue-2.x-brightgreen.svg)](https://vuejs.org/)
-[![MIT License](https://img.shields.io/github/license/David-Desmaisons/Vue.D3.tree.svg)](https://github.com/David-Desmaisons/Vue.D3.tree/blob/master/LICENSE)
 
 
 Vue components to display graphics based on [D3.js](https://d3js.org/) layout.
@@ -14,8 +12,6 @@ Vue components to display graphics based on [D3.js](https://d3js.org/) layout.
 ![demo](./documentation/treedemo.gif)
 
 ## Live demo
-
-https://david-desmaisons.github.io/Vue.D3.tree/tree
 
 ## Usage
 
@@ -283,7 +279,6 @@ Failing to do so may result in a component whose size that will keep increasing.
 
 ## Live demo
 
-https://david-desmaisons.github.io/Vue.D3.tree/hierarchicalEdgeBundling
 
 ## Usage
 
